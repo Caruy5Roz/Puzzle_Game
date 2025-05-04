@@ -2,7 +2,8 @@
 
 A simple two-player dice game built with HTML, CSS, and JavaScript — perfect for learning game logic, event handling, and DOM manipulation.
 
-🔗 [Play Live]([https://caruy5roz.github.io/Puzzle_Game/])
+🔗 [Play Live](https://caruy5roz.github.io/Puzzle_Game/)
+
 
 ---
 
