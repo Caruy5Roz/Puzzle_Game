@@ -8,11 +8,7 @@ A simple two-player dice game built with HTML, CSS, and JavaScript — perfect f
 
 ## 📌 Game Rules
 
-- Two players take turns rolling a die.
-- Each roll adds to their **current score**.
-- Rolling a **1** resets the current score and passes the turn.
-- Players can **"Hold"** to add their current score to the total.
-- First player to reach **100 points** wins.
+- You need to move from the left square to the right, and correctly arrange the image pieces within the time set on the timer.
 
 ---
 
