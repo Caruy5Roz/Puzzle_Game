@@ -1,4 +1,4 @@
-# 🎲 Puzzle Game
+# 🧩 Puzzle Game
 
 A simple puzle game built with HTML, CSS, and JavaScript — perfect for learning game logic, event handling, and DOM manipulation.
 
@@ -58,4 +58,4 @@ Let’s connect:
 
 📧 yuriirozdorozhnyi@gmail.com
 
-© 2025 — Yurii Rozdorozhnyi. Built with 🎲 and 🧠
+© 2025 — Yurii Rozdorozhnyi. Built with 🧩 and 🧠
